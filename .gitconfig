@@ -1,0 +1,20 @@
+[user]
+    name = Rick Breen
+    email = rick.breen@gmail.com
+    username = rickb
+[init]
+	defaultBranch = master
+[color]
+	ui = auto
+[push]
+    default=simple
+[http] 
+    sslverify=false
+
+[remote "origin"]
+    url=https://github.com/musicalengineer/astro.github.io.git
+    fetch=+refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+    remote=origin
+    merge=refs/heads/main
+    
