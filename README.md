@@ -25,6 +25,10 @@
     <a href="newsletters/index.html">Middlefield Astronomy Newsletters</a>
 </p>
 
+<br>
+<p>
+    <a href="newsletters/index.html">Recent Images</a>
+</p>
 </html>
 
 
