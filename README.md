@@ -22,7 +22,7 @@
 </body>
 <br>
 <p>
-    <a href="newsletters/index.html">Middlefield Astronomy Newsletters</a>
+    <a href="images/index.html">Recent Images</a>
 </p>
 
 <br>
