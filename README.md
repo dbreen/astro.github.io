@@ -15,9 +15,11 @@
 <head>
 </head>
 <body>
+<br>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
 </body>
  <p></p>
+ <br>
 <a href="/newsletters/"> Middlefield Astronomy Newsletters </a>
 </html>
 
