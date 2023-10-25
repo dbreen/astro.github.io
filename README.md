@@ -17,7 +17,7 @@
 <body>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
 </body>
-
+ <p></p>
 <a href="/newsletters/"> Middlefield Astronomy Newsletters </a>
 </html>
 
