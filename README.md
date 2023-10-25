@@ -21,8 +21,8 @@
 <br>
 </body>
 <br>
-<p>      
-    <a href="newsletters/">Middlefield Astronomy Newsletters</a>
+<p>
+    <a href="newsletters/index.html">Middlefield Astronomy Newsletters</a>
 </p>
 
 </html>
