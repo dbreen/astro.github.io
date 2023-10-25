@@ -19,16 +19,17 @@
 <br>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
 <br>
+
+<p>
+    <a href="newsletters/index.html">Newsletters</a>
+</p>
 </body>
 <br>
 <p>
     <a href="images/index.html">Recent Images</a>
 </p>
-
 <br>
-<p>
-    <a href="newsletters/index.html">Recent Images</a>
-</p>
+
 </html>
 
 
