@@ -11,16 +11,17 @@
     <p>Right now, it is very basic, but more should be coming, such as sharing astronomy photos, news, and eventually, we hope, maybe even live astronomy views from telescopes in our relatively dark skies. </p> 
     <p>Rick B.</p>
 </body>
-</html>
 
-< html>
 <head>
-   ...
 </head>
 <body>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
 </body>
+
+<a href="/newsletters/"> Middlefield Astronomy Newsletters </a>
 </html>
+
+
 
 
 
