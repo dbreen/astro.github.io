@@ -18,7 +18,6 @@
    ...
 </head>
 <body>
-   --
    <a href = " https://www.astrobin.com/users/musicalengineer/ "> Rick's astrophotos < / a>
 </body>
 </html>
