@@ -20,7 +20,8 @@
 </body>
  <p></p>
  <br>
-<a href="/newsletters/"> Middlefield Astronomy Newsletters </a>
+<p><a href="https://musicalengineer.github.io/astro.github.io/newsletters/">Middlefield Astronomy Newsletters</a></p>
+
 </html>
 
 
