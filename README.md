@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Middlefield Astronomy </title>
+     <base href = "https://musicalengineer.github.io/astro.github.io/">
 </head>
 <body>
     <h1></h1>
@@ -17,10 +18,12 @@
 <body>
 <br>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
+<br>
 </body>
- <p></p>
- <br>
-<p><a href="https://musicalengineer.github.io/astro.github.io/newsletters/">Middlefield Astronomy Newsletters</a></p>
+<br>
+<p>      
+    <a href="html/newsletters/">Middlefield Astronomy Newsletters</a>
+</p>
 
 </html>
 
