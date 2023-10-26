@@ -24,6 +24,7 @@
 <br>
 <p>
     <a href="images/index.html">Recent Images</a>
+    <br>
 </p>
 <br>
 </html>
