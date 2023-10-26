@@ -1,6 +1,5 @@
 # astro.github.io
 
-
 <html>
 <head>
     <title>Middlefield Astronomy </title>
@@ -9,17 +8,15 @@
 <body>
     <h1></h1>
     <p>A website for folks in Middlefield Astronomy to see what's happening. </p>
+    <br>
     <p>Right now, it is very basic, but more should be coming, such as sharing astronomy photos, news, and eventually, we hope, maybe even live astronomy views from telescopes in our relatively dark skies. </p> 
     <p>Rick B.</p>
 </body>
 
-<head>
-</head>
 <body>
 <br>
    <a href="https://www.astrobin.com/users/musicalengineer/"> Rick's astrophotos </a>
 <br>
-
 <p>
     <a href="newsletters/index.html">Newsletters</a>
 </p>
@@ -29,7 +26,6 @@
     <a href="images/index.html">Recent Images</a>
 </p>
 <br>
-
 </html>
 
 
